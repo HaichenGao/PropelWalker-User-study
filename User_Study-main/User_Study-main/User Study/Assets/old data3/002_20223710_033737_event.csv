@@ -1,0 +1,22 @@
+ID,Trial,A,Answer,Result,Time Spent
+002,1,-2.00,water,True,3.71
+002,2,-2.00,water,True,3.64
+002,3,1.40,mud,True,1.91
+002,4,1.00,sand,True,2.40
+002,5,1.00,sand,True,1.82
+002,6,-1.20,air,True,2.55
+002,7,-1.20,air,True,2.14
+002,8,-2.00,water,True,3.03
+002,9,1.00,sand,True,3.05
+002,10,1.00,sand,True,3.57
+002,11,1.00,sand,True,2.85
+002,12,1.40,mud,True,5.00
+002,13,1.40,mud,True,1.76
+002,14,1.40,mud,True,1.71
+002,15,-2.00,water,True,3.91
+002,16,-1.20,air,True,2.23
+002,17,1.40,mud,True,1.76
+002,18,-1.20,air,True,2.11
+002,19,-1.20,air,True,1.77
+002,20,-2.00,water,True,2.48
+
